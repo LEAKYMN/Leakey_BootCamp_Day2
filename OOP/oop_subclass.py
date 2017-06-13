@@ -1,3 +1,6 @@
+##1: GitHub repo containing a real-world problem modeled using OOP while taking advantage of inheritance, encapsulation, polymorphism and the other OOP concepts.
+
+
 class SchoolMember:
     '''Represents any school member.'''
     def __init__(self, name, age):
